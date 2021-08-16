@@ -1,0 +1,446 @@
+{
+    "feed": {
+        "title": "Top Films",
+        "id": "https://rss.itunes.apple.com/api/v1/es/movies/top-movies/all/25/explicit.json",
+        "author": {
+            "name": "iTunes Store",
+            "uri": "http://wwww.apple.com/es/itunes/"
+        },
+        "links": [
+            {
+                "self": "https://rss.itunes.apple.com/api/v1/es/movies/top-movies/all/25/explicit.json"
+            },
+            {
+                "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=33&popId=15"
+            }
+        ],
+        "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+        "country": "es",
+        "icon": "http://itunes.apple.com/favicon.ico",
+        "updated": "2021-06-14T01:17:56.000-07:00",
+        "results": [
+            {
+                "artistName": "Tim Story",
+                "id": "1553452603",
+                "releaseDate": "2021-05-18",
+                "name": "Tom y Jerry",
+                "kind": "movie",
+                "copyright": "© 2021 Warner Bros. Entertainment Inc.",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Video124/v4/40/d8/24/40d824b8-92f8-f690-58aa-4342fb5b13e7/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4410",
+                        "name": "Para toda la familia",
+                        "url": "https://itunes.apple.com/es/genre/id4410"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/tom-y-jerry/id1553452603"
+            },
+            {
+                "artistName": "Simon McQuoid",
+                "id": "1562064160",
+                "releaseDate": "2021-04-23",
+                "name": "Mortal Kombat (2021)",
+                "kind": "movie",
+                "copyright": "© 2021 Warner Bros. Entertainment Inc.",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Video125/v4/de/74/ae/de74ae77-691c-7695-be6b-f04f099a2a51/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/mortal-kombat-2021/id1562064160"
+            },
+            {
+                "artistName": "John Lee Hancock",
+                "id": "1550166754",
+                "releaseDate": "2021-04-13",
+                "name": "Pequeños detalles",
+                "kind": "movie",
+                "copyright": "© 2020 Warner Bros. Entertainment Inc.",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video124/v4/67/de/76/67de7661-6839-74f0-b342-810e8582ad25/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4416",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/es/genre/id4416"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/peque%C3%B1os-detalles/id1550166754"
+            },
+            {
+                "artistName": "Taylor Sheridan",
+                "id": "1565040995",
+                "releaseDate": "2021-05-07",
+                "name": "Aquellos Que Desean Mi Muerte",
+                "kind": "movie",
+                "copyright": "© 2021 Warner Bros. Ent. All Rights Reserved.",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/f8/ca/80/f8ca80cb-93a8-76da-40af-1cebbd30123b/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4416",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/es/genre/id4416"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/aquellos-que-desean-mi-muerte/id1565040995"
+            },
+            {
+                "artistName": "Adam Wingard",
+                "id": "1560035868",
+                "releaseDate": "2021-05-24",
+                "name": "Godzilla vs. Kong",
+                "kind": "movie",
+                "copyright": "2021 Warner Bros. Entertainment Inc. and Legendary. GODZILLA TM & © Toho Co., Ltd.",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video125/v4/f3/c4/5f/f3c45f35-ec20-5970-60ba-3f8cede1c6f6/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/godzilla-vs-kong/id1560035868"
+            },
+            {
+                "artistName": "David Lynch",
+                "id": "1490942451",
+                "releaseDate": "2002-03-08",
+                "name": "Mulholland Drive",
+                "kind": "movie",
+                "copyright": "© 2001 STUDIOCANAL",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video114/v4/08/3e/11/083e11e0-edc6-1d03-a236-3649df53c1d1/pr_source.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4416",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/es/genre/id4416"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/mulholland-drive/id1490942451"
+            },
+            {
+                "artistName": "Don Hall & Carlos López Estrada",
+                "id": "1558270034",
+                "releaseDate": "2021-03-05",
+                "name": "Raya y el último dragón",
+                "kind": "movie",
+                "copyright": "© 2021 Disney Enterprises, Inc. All Rights Reserved.",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video124/v4/ea/5f/ee/ea5fee22-3af3-f60e-1090-a0e4213a4d87/contsched.kfsxpvmc.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4410",
+                        "name": "Para toda la familia",
+                        "url": "https://itunes.apple.com/es/genre/id4410"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/raya-y-el-%C3%BAltimo-drag%C3%B3n/id1558270034"
+            },
+            {
+                "artistName": "Nick Stagliano",
+                "id": "1563001037",
+                "releaseDate": "2021-04-30",
+                "name": "El Virtuoso",
+                "kind": "movie",
+                "copyright": "© 2021 Nazz Productions",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Video115/v4/e1/80/26/e1802665-7996-55d8-f845-b70be6d25599/pr_source.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4416",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/es/genre/id4416"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/el-virtuoso/id1563001037"
+            },
+            {
+                "artistName": "Matthew Vaughn",
+                "id": "1281209572",
+                "releaseDate": "2017-09-21",
+                "name": "Kingsman: El círculo de oro",
+                "kind": "movie",
+                "copyright": "© 2017 Twentieth Century Fox Film Corporation. All rights reserved.",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/de/a3/d4/dea3d454-3ac2-f0a4-01ed-6248d81d6ce0/contsched.jdxhigyf.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/kingsman-el-c%C3%ADrculo-de-oro/id1281209572"
+            },
+            {
+                "artistName": "Joel Crawford",
+                "id": "1541281989",
+                "releaseDate": "2020-11-25",
+                "name": "Los Croods: Una Nueva Era",
+                "kind": "movie",
+                "copyright": "© DreamWorks The Croods 2020 DreamWorks Animation LLC. All Rights Reserved.",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video124/v4/d2/e6/48/d2e648c5-f92a-37e4-0ecf-10f44a9284e0/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4410",
+                        "name": "Para toda la familia",
+                        "url": "https://itunes.apple.com/es/genre/id4410"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/los-croods-una-nueva-era/id1541281989"
+            },
+            {
+                "artistName": "Patty Jenkins",
+                "id": "1545235353",
+                "releaseDate": "2020-12-25",
+                "name": "Wonder Woman 1984",
+                "kind": "movie",
+                "copyright": "2020 WBEI. WONDER WOMAN TM & © DC.",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video124/v4/8e/83/0d/8e830d88-1065-b90c-7da9-8058409c4d6a/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/wonder-woman-1984/id1545235353"
+            },
+            {
+                "artistName": "Igor Kopylov",
+                "id": "1566601421",
+                "releaseDate": "2019-12-05",
+                "name": "1942: La gran ofensiva",
+                "kind": "movie",
+                "copyright": "© 2019 3xMedia, Kinoalliance",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/e9/35/ea/e935ea81-7aa8-410e-e82c-2dee9e3a5950/LaGranOfensiva-Artwork-2000x3000.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/1942-la-gran-ofensiva/id1566601421"
+            },
+            {
+                "artistName": "Derrick Borte",
+                "id": "1557660251",
+                "releaseDate": "2021-01-06",
+                "name": "Salvaje (2020)",
+                "kind": "movie",
+                "copyright": "© 2019 Burek Films",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Video124/v4/d3/d5/0b/d3d50b97-70b8-952b-e8a6-e617eba6efce/CF410K1_SALVAJE_WW_PosterArt_2000x3000.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4416",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/es/genre/id4416"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/salvaje-2020/id1557660251"
+            },
+            {
+                "artistName": "Michel Franco",
+                "id": "1566490984",
+                "releaseDate": "2021-02-19",
+                "name": "Nuevo orden",
+                "kind": "movie",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Video115/v4/0f/55/aa/0f55aa68-3c37-52ea-7fcf-6bde1645a1c1/IT107411_artwork_WW.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4416",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/es/genre/id4416"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/nuevo-orden/id1566490984"
+            },
+            {
+                "artistName": "Sang-ho Yeon",
+                "id": "1564017252",
+                "releaseDate": "2021-04-23",
+                "name": "Peninsula",
+                "kind": "movie",
+                "copyright": "© 2020 Next Entertainment World & RedPeter Films. All right reserved.",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Video125/v4/fc/36/db/fc36db69-94ed-a014-c499-440e6db5bed9/IT107409_artwork_WW.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/peninsula/id1564017252"
+            },
+            {
+                "artistName": "Juan Cavestany",
+                "id": "1564751940",
+                "releaseDate": "2021-03-26",
+                "name": "Un Efecto Óptico",
+                "kind": "movie",
+                "copyright": "© 2020 Cuidado Con El Perro Producciones Audiovisuales, S.L.",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/9c/2a/fa/9c2afad0-fff0-3ebe-fa4a-5f7c7b6d6ab3/UnEfectoOptico-Artwork-2000x3000.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4404",
+                        "name": "Comedia",
+                        "url": "https://itunes.apple.com/es/genre/id4404"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/un-efecto-%C3%B3ptico/id1564751940"
+            },
+            {
+                "artistName": "James Mangold",
+                "id": "1484741837",
+                "releaseDate": "2019-11-15",
+                "name": "Le Mans ´66",
+                "kind": "movie",
+                "copyright": "© 2019 Twentieth Century Fox Film Corporation. All rights reserved.",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Video123/v4/d8/56/26/d8562682-b75e-1d92-6db5-da95fc0c2944/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/le-mans-66/id1484741837"
+            },
+            {
+                "artistName": "Steven Spielberg",
+                "id": "733191875",
+                "releaseDate": "1989-05-24",
+                "name": "Indiana Jones y la última cruzada",
+                "kind": "movie",
+                "copyright": "© 1989 Lucasfilm Ltd. All Rights Reserved. Used Under Authorization.",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video3/v4/1d/44/fa/1d44fa89-441b-2c6a-befd-bfa758756748/31859EU007_ES.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/indiana-jones-y-la-%C3%BAltima-cruzada/id733191875"
+            },
+            {
+                "artistName": "Andy Tennant",
+                "id": "1549662120",
+                "releaseDate": "2020-10-23",
+                "name": "El secreto: Atrévete a soñar",
+                "kind": "movie",
+                "copyright": "© 2020 ShineBox Media Group",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Video114/v4/cc/0c/af/cc0caf66-4553-f666-f69e-d671570fec15/447_VOD_artwork.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4406",
+                        "name": "Drama",
+                        "url": "https://itunes.apple.com/es/genre/id4406"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/el-secreto-atr%C3%A9vete-a-so%C3%B1ar/id1549662120"
+            },
+            {
+                "artistName": "Filippo Meneghetti",
+                "id": "1567274069",
+                "releaseDate": "2021-02-19",
+                "name": "Entre nosotras",
+                "kind": "movie",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/b0/f7/d7/b0f7d794-c271-b23b-7e96-8805e86fee39/IT107427_artwork_WW.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4406",
+                        "name": "Drama",
+                        "url": "https://itunes.apple.com/es/genre/id4406"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/entre-nosotras/id1567274069"
+            },
+            {
+                "artistName": "Zack Snyder",
+                "id": "1557575456",
+                "releaseDate": "2021-04-01",
+                "name": "La Liga de la Justicia de Zack Snyder",
+                "kind": "movie",
+                "copyright": "2021 Warner Bros. Entertainment Inc. JUSTICE LEAGUE and all related characters and elements are trademarks of and © DC Comics.",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/54/3c/5e/543c5e1d-2b97-fa50-0c72-4ea7c6a36eba/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/la-liga-de-la-justicia-de-zack-snyder/id1557575456"
+            },
+            {
+                "artistName": "Robert Zemeckis",
+                "id": "1536067197",
+                "releaseDate": "2020-10-30",
+                "name": "Las brujas (de Roald Dahl)",
+                "kind": "movie",
+                "copyright": "© 2020 Warner Bros. Ent. Inc. All rights reserved.",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Video124/v4/a6/4a/25/a64a2566-ca6a-8f28-eced-3f657d6d093f/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4410",
+                        "name": "Para toda la familia",
+                        "url": "https://itunes.apple.com/es/genre/id4410"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/las-brujas-de-roald-dahl/id1536067197"
+            },
+            {
+                "artistName": "Vaughn Stein",
+                "id": "1563964482",
+                "releaseDate": "2021-05-21",
+                "name": "Cada respiro que das",
+                "kind": "movie",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Video125/v4/79/b4/c8/79b4c8af-5068-8eee-4533-6ede08fba34c/IT107408_artwork_WW.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4416",
+                        "name": "Suspense",
+                        "url": "https://itunes.apple.com/es/genre/id4416"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/cada-respiro-que-das/id1563964482"
+            },
+            {
+                "artistName": "Joel Coen",
+                "id": "701939472",
+                "releaseDate": "1998-03-06",
+                "name": "El gran Lebowski",
+                "kind": "movie",
+                "copyright": "© 1998 Focus Features. All Rights Reserved.",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/14/d9/ec/14d9ecc8-e7e3-61c0-e523-dbb57779c959/pr_source.lsr/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4404",
+                        "name": "Comedia",
+                        "url": "https://itunes.apple.com/es/genre/id4404"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/el-gran-lebowski/id701939472"
+            },
+            {
+                "artistName": "Steven Spielberg",
+                "id": "733230994",
+                "releaseDate": "1981-06-12",
+                "name": "En busca del arca perdida",
+                "kind": "movie",
+                "copyright": "© 1981 Lucasfilm Ltd. All Rights Reserved. Used Under Authorization",
+                "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/1f/f3/7c/1ff37c09-c26c-9b10-0c1c-cc314e799a47/01376EU007_ES.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "4401",
+                        "name": "Acción y aventura",
+                        "url": "https://itunes.apple.com/es/genre/id4401"
+                    }
+                ],
+                "url": "https://itunes.apple.com/es/movie/en-busca-del-arca-perdida/id733230994"
+            }
+        ]
+    }
+}
